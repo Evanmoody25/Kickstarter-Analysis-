@@ -8,3 +8,40 @@ Performing analysis on Kickstarter to discover trends
 ![Descriptive_Statistics](https://user-images.githubusercontent.com/89880015/132951589-f07951a1-d88f-434d-8f5a-08dde3c4aa48.PNG)
 
 -This project looked into the aspects of Kickstarters, particularly plays within theater. Upon looking at the data my recomendation is that we go forward with the play kickstarter as plays are a very successful within the already very successful theater parent category. There needs to be a lowering of the goal, based on the descriptive statistics. We want to be anywere between $3,000 and $5,000 as our goal. Finally, begining our kickstarter in May or June would be highly advantagous as these months seem to be yeilding the highest success rates. 
+
+
+Info on the Final Project: 
+After going through kickstarter data to find what it is that makes kickstarters, particularly plays, successful or unsuccessful.
+Now, Loise's play "Fever" came close to its fundraising goal in a short amount of time so now we want to look as and study the 
+other kickstarter campaigns and see how they compare based on launch dates and fundraising goals. 
+
+As hinted in the introduction paragraph of this analysis, we are looking to study the success of kickstarter campaigns based on
+launch dates and the initial goals that were set, Loise's play came very close to its goal, now we want to understand that 
+outcome in the context of the data to see where things may be improved. The analysis was prepared by looking selectively 
+at the data that helped make our displays. For the first display we used outcomes based on launch dates. So, we were looking 
+to find the success and failures of kickstarters in the theater parent category accross time. Our independent variable in this
+case was the month in which the kickstarter was launched and the dependent variable was the success and failure of kickstarters,
+canceled kickstarters were also measured. The second display delt with the the outcomes based on goals which had the goals as
+the independent variable and the outcome as the dependent variable. In the first display, I encountered no difficulties and
+was able to get the task finished in a few minutes. I suppose a dificulty may arise if someone does not know how to use filters
+or perhaps cannot put the variables in the right places for the pivot table and subsequent chart. For the second display, I 
+actually had an issue. As I was trying to execute the countifs() function, my computer was prioritizing entire spreadsheets 
+over the columns I wished to use. So, I was constantly geting 0 as the output. I had to manually go in and rewrite each 
+command to get it right. Luckily, after I wrote a few, I was able to copy and past the command and make minimal adjustments 
+to get the correct output. 
+
+As for the results, two outcomes can be derived by outcomes based on launch date and one outcoem can be derived from outputes 
+based on goals. The outcomes based on launch date is that success rates for theater oarent category go up and peak in may. 
+The second outcome is that success begins to fall for the rest of the year. Next, is that generally speaking, success goes 
+down when you begin to ask for more money. You generally do better not asking for more then 5000 dollars. 
+
+Now, a summary of the limitations. The most apparent to me involves the second display. There are fewer and fewer trials to 
+gather data from as you go up the money asked variable. So, while it may seem intuitive that as you ask for more money, you 
+are setting a more difficult bar to climb over, it should be known that a proper conclusion should not be drawn until there
+is more data for the parent category. As for the first display, I think that the data is good but I think the display itself
+does not capture the whole picture. Rather then time alone affecting the success of plays, I want to see if the general weather
+has anything to do with it. Having attended events such as shakespear in the park, I know that such events are carried out in
+the summer over other seasons. Nobody wants to sit out in the cold. Perhaps the weather affects people's confidence in
+plays as well. I simply believe a better picture can be formed by looking at other varibales that coincide with the month. 
+![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/89880015/133893231-36bf59fd-e8d8-4f31-8532-1e0fc96be24d.PNG)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/89880015/133893238-15198409-d07d-4dd7-a3eb-c671caf047ac.png)
