@@ -10,6 +10,9 @@ Performing analysis on Kickstarter to discover trends
 -This project looked into the aspects of Kickstarters, particularly plays within theater. Upon looking at the data my recomendation is that we go forward with the play kickstarter as plays are a very successful within the already very successful theater parent category. There needs to be a lowering of the goal, based on the descriptive statistics. We want to be anywere between $3,000 and $5,000 as our goal. Finally, begining our kickstarter in May or June would be highly advantagous as these months seem to be yeilding the highest success rates. 
 
 
+
+![New_Outcomesbasedonlaunchdate](https://user-images.githubusercontent.com/89880015/133893304-8ad86ae2-0d64-416e-a16e-4870d88c9568.PNG)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/89880015/133893238-15198409-d07d-4dd7-a3eb-c671caf047ac.png)
 Info on the Final Project: 
 
 
@@ -46,5 +49,3 @@ does not capture the whole picture. Rather then time alone affecting the success
 has anything to do with it. Having attended events such as shakespear in the park, I know that such events are carried out in
 the summer over other seasons. Nobody wants to sit out in the cold. Perhaps the weather affects people's confidence in
 plays as well. I simply believe a better picture can be formed by looking at other varibales that coincide with the month. 
-![New_Outcomesbasedonlaunchdate](https://user-images.githubusercontent.com/89880015/133893304-8ad86ae2-0d64-416e-a16e-4870d88c9568.PNG)
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/89880015/133893238-15198409-d07d-4dd7-a3eb-c671caf047ac.png)
