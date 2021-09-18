@@ -11,6 +11,9 @@ Performing analysis on Kickstarter to discover trends
 
 
 Info on the Final Project: 
+
+
+
 After going through kickstarter data to find what it is that makes kickstarters, particularly plays, successful or unsuccessful.
 Now, Loise's play "Fever" came close to its fundraising goal in a short amount of time so now we want to look as and study the 
 other kickstarter campaigns and see how they compare based on launch dates and fundraising goals. 
@@ -43,5 +46,5 @@ does not capture the whole picture. Rather then time alone affecting the success
 has anything to do with it. Having attended events such as shakespear in the park, I know that such events are carried out in
 the summer over other seasons. Nobody wants to sit out in the cold. Perhaps the weather affects people's confidence in
 plays as well. I simply believe a better picture can be formed by looking at other varibales that coincide with the month. 
-![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/89880015/133893231-36bf59fd-e8d8-4f31-8532-1e0fc96be24d.PNG)
+![New_Outcomesbasedonlaunchdate](https://user-images.githubusercontent.com/89880015/133893304-8ad86ae2-0d64-416e-a16e-4870d88c9568.PNG)
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/89880015/133893238-15198409-d07d-4dd7-a3eb-c671caf047ac.png)
