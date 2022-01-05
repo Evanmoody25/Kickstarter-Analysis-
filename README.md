@@ -17,6 +17,8 @@ Here's a quick look at the Kickstarting Analysis and Challenges of this Project,
 # An Analysis on Kickstarter Campaigns 
 Performing analysis on Kickstarter to discover trends
 
+* What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 As Conclusions, our Line charts we can see by looking at our data that the months of May and June both have a greater success rate. A bar chart wouldn't be able to convey this information in the same manner.
 
 ![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/89880015/132951227-dc5f330a-a0e1-4181-9a54-1d27c5e69d12.PNG)
