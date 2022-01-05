@@ -49,6 +49,10 @@ Grouping data in a PivotTable can help you show a subset of data to analyze. For
 
 ![image](https://user-images.githubusercontent.com/89880015/148265653-cfe7009c-7fc3-486d-a94e-75b8c7b51010.png)
 
+7. A line chart is created showing the number of successful, failed, or canceled projects by month, it has a title, and it is saved as [Theater_Outcomes_vs_Launch.png]
+
+
+![New_Outcomesbasedonlaunchdate](https://user-images.githubusercontent.com/89880015/133893304-8ad86ae2-0d64-416e-a16e-4870d88c9568.PNG)
 
 
 ## results and conclusions
