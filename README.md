@@ -1,6 +1,6 @@
 # Kickstarter Analysis, working with Microsoft Excel
 
-index
+# index
 - Purpose
 - Analysis and Challenge (a quick look at what this repository will go over)
 - working with pivot tables (this area will also focus on filters and conditional formating) 
