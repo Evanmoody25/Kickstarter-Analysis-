@@ -3,7 +3,8 @@
 # index
 - Purpose
 - Analysis and Challenge (a quick look at what this repository will go over)
-- working with pivot tables (this area will also focus on filters and conditional formating) 
+- Analysis of Outcomes Based on Launch Date
+- Analysis of Outcomes Based on Goals
 - results and conclusions
 
 # Purpose
@@ -22,7 +23,7 @@ Here's a quick look at the Kickstarting Analysis and Challenges of this Project,
 * Perform an Excel analysis with visualizations.
 * Interpret common Excel visualizations
 
-# This section will be showing pivot tables
+# Analysis of Outcomes Based on Launch Date
 
 1. A Years column is created based on the Date Created Conversion column in the Kickstarter spreadsheet.
 
@@ -51,9 +52,41 @@ Grouping data in a PivotTable can help you show a subset of data to analyze. For
 
 7. A line chart is created showing the number of successful, failed, or canceled projects by month, it has a title, and it is saved as [Theater_Outcomes_vs_Launch.png]
 
-
 ![New_Outcomesbasedonlaunchdate](https://user-images.githubusercontent.com/89880015/133893304-8ad86ae2-0d64-416e-a16e-4870d88c9568.PNG)
 
+# Analysis of Outcomes Based on Goals
+
+1. A new sheet is created with eight columns and twelve rows, according to the instructions.
+
+In the new sheet, create the following columns to hold the data:
+
+* Goal
+* Number Successful
+* Number Failed
+* Number Canceled
+* Total Projects
+* Percentage Successful
+* Percentage Failed
+* Percentage Canceled.
+
+![image](https://user-images.githubusercontent.com/89880015/148267948-a0e9d847-8c63-4d4a-b75e-7c20087d15d5.png)
+
+2. The COUNTIFS() function is used to populate the "Number Successful," "Number Failed," and "Number Canceled" columns, based on the project "outcome," the "goal" amount using the goal ranges in Step 3, and the Subcategory "plays".
+
+![image](https://user-images.githubusercontent.com/89880015/148268099-74a12e1b-f653-4769-b27a-06304dcad7b9.png)
+
+3. The SUM() function is used on each row to add the "Number Successful," "Number Failed," and "Number Canceled" columns to populate the "Total Projects" column.
+
+![image](https://user-images.githubusercontent.com/89880015/148268255-f4fe59a4-af65-410b-8bdd-33f025e2580d.png)
+
+4. The percentages of successful, failed, and canceled projects are calculated based on the data from the "Total Projects," "Number Successful," "Number Failed," and "Number Canceled" columns.
+
+![image](https://user-images.githubusercontent.com/89880015/148268366-15894825-6cac-447c-9e07-a24477964541.png)
+
+5. A line chart is created and saved as [Outcomes_vs_Goals.png] with the goal-amount ranges on the x-axis, the percentage of successful, failed, or canceled projects on the y-axis, and an appropriate title.
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/89880015/133893238-15198409-d07d-4dd7-a3eb-c671caf047ac.png)
+Info on the Final Project: 
 
 ## results and conclusions
 An Analysis on Kickstarter Campaigns
