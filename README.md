@@ -1,4 +1,10 @@
-`# Purpose
+# Kickstarter Analysis, working with Microsoft Excel
+
+index
+- Purpose
+- Analysis and Challenge (a quick look at what this repository will go over)
+- working with pivot tables (this area will also focus on filters and conditional formating) 
+- results and conclusions
 
 Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset that you’ve already combed through, you’ll visualize campaign outcomes based on their launch dates and their funding goals. You’ll then submit a written report based on your analysis and the visualizations you create.
 
@@ -14,19 +20,26 @@ Here's a quick look at the Kickstarting Analysis and Challenges of this Project,
 * Perform an Excel analysis with visualizations.
 * Interpret common Excel visualizations
 
+# This section will be showing pivot tables
+
 1. A Years column is created based on the Date Created Conversion column in the Kickstarter spreadsheet.
+
 ![image](https://user-images.githubusercontent.com/89880015/148264680-f3777ac8-6b48-4e23-ad00-3fa3b9766c9e.png)
 
 2. A pivot table is created in a new worksheet labeled "Outcomes Based on Launch Date".
+
 ![image](https://user-images.githubusercontent.com/89880015/148264849-d1c432e3-f359-41f0-82a7-7af2a862306b.png)
 
 3. The pivot table filters on "Parent Category" and "Years".
+
 ![image](https://user-images.githubusercontent.com/89880015/148265015-247d3b0e-9410-45e9-a768-ad6d374c969c.png)
 
 4. The columns, rows, and values in the pivot table fields are correctly populated.
+
 ![image](https://user-images.githubusercontent.com/89880015/148265218-6b947111-f0c8-41e2-960e-e7c6998b31ce.png)
 
 5. The "Parent Category" is filtered on "theater".
+
 ![image](https://user-images.githubusercontent.com/89880015/148265386-0aaddaf9-1af4-4980-9926-f3d6a4356bea.png)
 
 6. The row labels are changed to display the months of the year, and the campaign outcomes are sorted in descending order.
